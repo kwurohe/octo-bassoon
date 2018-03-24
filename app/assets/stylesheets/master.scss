@@ -36,8 +36,9 @@
 
 .links a {
   color: black;
-  font-size: 25px;
+  font-size: 20px;
   border-bottom: 1px solid #dfdfdf;
+  margin-right: 10px;
   font-family: 'quicksandregular', sans-serif;
   font-weight: bold;
 }
@@ -52,12 +53,14 @@ hr {
 
 h1 {
   font-family: 'quicksandregular', sans-serif;
-  font-size: 48px;
+  font-size: 40px;
+  margin-left: 5%;
 }
 
 h2 {
   font-family: 'quicksandbold', sans-serif;
   font-weight: bold;
+  margin-left: 5%;
   }
 
 .next-quote {
